@@ -1,0 +1,2 @@
+C:\Users\Elkholy\Documents\github\C--\6-  Structure\Debug\6-  Structure.exe
+C:\Users\Elkholy\Documents\github\C--\6-  Structure\Debug\6-  Structure.pdb
