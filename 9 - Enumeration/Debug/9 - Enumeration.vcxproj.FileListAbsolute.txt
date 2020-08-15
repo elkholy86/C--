@@ -1,0 +1,2 @@
+C:\Users\Elkholy\Documents\github\C--\9 - Enumeration\Debug\9 - Enumeration.exe
+C:\Users\Elkholy\Documents\github\C--\9 - Enumeration\Debug\9 - Enumeration.pdb
