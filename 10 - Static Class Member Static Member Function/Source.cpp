@@ -17,11 +17,15 @@ public :
 		first = second = final = 0;
 		count++;
 		print_count();
+
 	}
 };
 int student::count = 0; 
 int main()
 {
+	int x = 0; 
+	++x;
+	cout << x;
 	student::print_count();
 	cout <<"\nconstruct 2 objects\n";
 	student s1, s2;
